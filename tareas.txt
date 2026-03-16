@@ -9,6 +9,5 @@ PENDIENTES:
 - Diseñar la interfaz de usuario (Persona B)
 
 === TAREAS PERSONA C ===
-- (Persona C simulada por Persona B: añadir aquí su tarea)
-
+- Escribir la documentación (Persona C)
 COMPLETADAS:
