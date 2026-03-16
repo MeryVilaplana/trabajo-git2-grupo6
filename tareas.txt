@@ -6,7 +6,7 @@ PENDIENTES:
 - Configurar el entorno de desarrollo (Persona A)
 
 === TAREAS PERSONA B ===
-- (Persona B: añadir aquí su tarea)
+- Diseñar la interfaz de usuario (Persona B)
 
 === TAREAS PERSONA C ===
 - (Persona C simulada por Persona B: añadir aquí su tarea)
